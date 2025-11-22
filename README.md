@@ -1,2 +1,1 @@
-# solid-tribble
-VelocityTMS
+# solid/tribble/Velocitytms
